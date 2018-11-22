@@ -1,0 +1,17 @@
+{
+  "name": "paynopain-SFTP_FileServer",
+  "version": "0.1",
+  "author": "paynopain",
+  "summary": "SFTP FileServer",
+  "license": "MIT",
+  "source": "https://github.com/PaynoPain/paynopain-SFTP_FileServer.git",
+  "project_page": "https://github.com/PaynoPain/paynopain-SFTP_FileServer",
+  "operatingsystem_support": [
+    {
+      "operatingsystem":"Ubuntu",
+      "operatingsystemrelease":[ "18.04.1" ]
+    }
+  ],
+  "tags": [ "sftp", "aws" ],
+  "data_provider": null
+}
