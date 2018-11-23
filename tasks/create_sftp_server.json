@@ -1,4 +1,7 @@
 {
   "description": "Creates SFTP server",
-  "name": "SFTP FileServer"
+  "name": "SFTP FileServer",
+  "implementations": [
+    {"name": "create_sftp_server.sh"}
+  ]
 }
